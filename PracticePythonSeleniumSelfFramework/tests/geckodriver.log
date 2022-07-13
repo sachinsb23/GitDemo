@@ -1,0 +1,19 @@
+1655387691648	geckodriver	INFO	Listening on 127.0.0.1:56552
+1655387694687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\sachin.sb\\AppData\\Local\\Temp\\rust_mozprofileepORdD"
+1655387719596	geckodriver	INFO	Listening on 127.0.0.1:56626
+1655387722644	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\sachin.sb\\AppData\\Local\\Temp\\rust_mozprofileD7cu2l"
+JavaScript error: 2hgtmofseo3.cfg, line 2: ReferenceError: Components is not defined
+1655387723316	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sachin.sb\\AppData\\Local\\Temp\\rust_mozprofileD7cu2l\\search.json.mozlz4", (void 0)))
+1655387725363	Marionette	INFO	Listening on port 56634
+1655387725847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+1655387759912	Marionette	INFO	Stopped listening on port 56634
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1657200084446	geckodriver	INFO	Listening on 127.0.0.1:52014
+1657200087498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\sachin.sb\\AppData\\Local\\Temp\\rust_mozprofile5imXKb"

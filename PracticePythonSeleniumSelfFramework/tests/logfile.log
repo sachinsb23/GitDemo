@@ -1,0 +1,93 @@
+2022-07-06 19:35:44,089 :INFO : test_e2e :getting all the card titles
+2022-07-06 19:35:44,120 :INFO : test_e2e :iphone X
+2022-07-06 19:35:44,131 :INFO : test_e2e :Samsung Note 8
+2022-07-06 19:35:44,142 :INFO : test_e2e :Nokia Edge
+2022-07-06 19:35:44,150 :INFO : test_e2e :Blackberry
+2022-07-06 19:35:49,331 :INFO : test_e2e :Entering Country Name as India
+2022-07-06 19:35:54,777 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-06 19:39:39,952 :INFO : test_e2e :getting all the card titles
+2022-07-06 19:39:39,987 :INFO : test_e2e :iphone X
+2022-07-06 19:39:40,004 :INFO : test_e2e :Samsung Note 8
+2022-07-06 19:39:40,016 :INFO : test_e2e :Nokia Edge
+2022-07-06 19:39:40,039 :INFO : test_e2e :Blackberry
+2022-07-06 19:39:45,210 :INFO : test_e2e :Entering Country Name as India
+2022-07-06 19:39:50,760 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-06 19:40:16,794 :INFO : test_e2e :getting all the card titles
+2022-07-06 19:40:16,820 :INFO : test_e2e :iphone X
+2022-07-06 19:40:16,832 :INFO : test_e2e :Samsung Note 8
+2022-07-06 19:40:16,844 :INFO : test_e2e :Nokia Edge
+2022-07-06 19:40:16,856 :INFO : test_e2e :Blackberry
+2022-07-06 19:40:22,041 :INFO : test_e2e :Entering Country Name as India
+2022-07-06 19:40:27,482 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-06 19:40:29,428 :INFO : test_formSubmission :first name is Rahul
+2022-07-06 19:40:29,922 :INFO : test_formSubmission :first name is Anshika
+2022-07-06 19:40:29,922 :INFO : test_formSubmission :first name is Anshika
+2022-07-06 19:47:12,575 :INFO : test_e2e :getting all the card titles
+2022-07-06 19:47:12,601 :INFO : test_e2e :iphone X
+2022-07-06 19:47:12,613 :INFO : test_e2e :Samsung Note 8
+2022-07-06 19:47:12,625 :INFO : test_e2e :Nokia Edge
+2022-07-06 19:47:12,635 :INFO : test_e2e :Blackberry
+2022-07-06 19:47:17,807 :INFO : test_e2e :Entering Country Name as India
+2022-07-06 19:47:23,275 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-06 19:47:25,244 :INFO : test_formSubmission :first name is Rahul
+2022-07-06 19:47:25,844 :INFO : test_formSubmission :first name is Anshika
+2022-07-06 19:47:25,844 :INFO : test_formSubmission :first name is Anshika
+2022-07-06 19:58:13,091 :INFO : test_e2e :getting all the card titles
+2022-07-06 19:58:13,141 :INFO : test_e2e :iphone X
+2022-07-06 19:58:13,157 :INFO : test_e2e :Samsung Note 8
+2022-07-06 19:58:13,174 :INFO : test_e2e :Nokia Edge
+2022-07-06 19:58:13,189 :INFO : test_e2e :Blackberry
+2022-07-06 19:58:18,391 :INFO : test_e2e :Entering Country Name as India
+2022-07-06 19:58:23,891 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-06 19:58:26,187 :INFO : test_formSubmission :first name is Rahul
+2022-07-06 19:58:26,767 :INFO : test_formSubmission :first name is Anshika
+2022-07-06 19:58:26,767 :INFO : test_formSubmission :first name is Anshika
+2022-07-06 22:19:28,118 :INFO : test_e2e :getting all the card titles
+2022-07-06 22:19:28,165 :INFO : test_e2e :iphone X
+2022-07-06 22:19:28,177 :INFO : test_e2e :Samsung Note 8
+2022-07-06 22:19:28,189 :INFO : test_e2e :Nokia Edge
+2022-07-06 22:19:28,205 :INFO : test_e2e :Blackberry
+2022-07-06 22:19:33,461 :INFO : test_e2e :Entering Country Name as India
+2022-07-06 22:19:38,937 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-06 22:19:41,708 :INFO : test_formSubmission :first name is Rahul
+2022-07-06 22:19:42,215 :INFO : test_formSubmission :first name is Anshika
+2022-07-06 22:19:42,215 :INFO : test_formSubmission :first name is Anshika
+2022-07-07 18:17:52,173 :INFO : test_e2e :getting all the card titles
+2022-07-07 18:17:52,351 :INFO : test_e2e :iphone X
+2022-07-07 18:17:52,423 :INFO : test_e2e :Samsung Note 8
+2022-07-07 18:17:52,451 :INFO : test_e2e :Nokia Edge
+2022-07-07 18:17:52,501 :INFO : test_e2e :Blackberry
+2022-07-07 18:17:57,826 :INFO : test_e2e :Entering Country Name as India
+2022-07-07 18:18:03,365 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-07 18:18:05,966 :INFO : test_formSubmission :first name is Rahul
+2022-07-07 18:18:06,748 :INFO : test_formSubmission :first name is Anshika
+2022-07-07 18:18:06,748 :INFO : test_formSubmission :first name is Anshika
+2022-07-07 19:01:16,307 :INFO : test_e2e :getting all the card titles
+2022-07-07 19:01:16,343 :INFO : test_e2e :iphone X
+2022-07-07 19:01:16,360 :INFO : test_e2e :Samsung Note 8
+2022-07-07 19:01:16,375 :INFO : test_e2e :Nokia Edge
+2022-07-07 19:01:16,390 :INFO : test_e2e :Blackberry
+2022-07-07 19:01:21,635 :INFO : test_e2e :Entering Country Name as India
+2022-07-07 19:01:27,201 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-07 19:01:29,389 :INFO : test_formSubmission :first name is Rahul
+2022-07-07 19:01:29,906 :INFO : test_formSubmission :first name is Anshika
+2022-07-07 19:01:29,906 :INFO : test_formSubmission :first name is Anshika
+2022-07-07 19:07:07,490 :INFO : test_e2e :getting all the card titles
+2022-07-07 19:07:07,532 :INFO : test_e2e :iphone X
+2022-07-07 19:07:07,548 :INFO : test_e2e :Samsung Note 8
+2022-07-07 19:07:07,561 :INFO : test_e2e :Nokia Edge
+2022-07-07 19:07:07,574 :INFO : test_e2e :Blackberry
+2022-07-07 19:07:12,796 :INFO : test_e2e :Entering Country Name as India
+2022-07-07 19:07:18,442 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-07 19:07:20,733 :INFO : test_formSubmission :first name is Rahul
+2022-07-07 19:07:21,820 :INFO : test_formSubmission :first name is Anshika
+2022-07-07 19:07:21,820 :INFO : test_formSubmission :first name is Anshika
